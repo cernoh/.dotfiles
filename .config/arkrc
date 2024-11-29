@@ -1,0 +1,12 @@
+[ExtractDialog]
+2 screens: Window-Maximized=true
+DirHistory[$e]=$HOME/Documents/University files/uniprogramming/IN2029/,$HOME/Downloads/fonts/,$HOME/Documents/University files/uniprogramming/IN2029/Tutorial7/,$HOME/Documents/bolt-resume/,$HOME/Documents/personal/portfolio/,$HOME/Pictures/saved/,$HOME/Documents/,$HOME/Documents/University files/IN1007/citygame-cernoh/data/assets/,$HOME/Documents/University files/IN1007/
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+2 screens: Window-Maximized=true
+StatusBar=Disabled
+ToolBarsMovable=Disabled

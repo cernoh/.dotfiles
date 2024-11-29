@@ -1,0 +1,8 @@
+[Default Applications]
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop
+x-scheme-handler/webcal=brave-browser.desktop
+x-scheme-handler/mailto=brave-browser.desktop
+
+[Added Associations]
+application/x-shellscript=nvim.desktop;
+video/mp4=io.github.celluloid_player.Celluloid.desktop;vlc.desktop;

@@ -1,0 +1,85 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1037,
+      "width": 947,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1037,
+      "width": 947,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 1055,
+      "width": 960,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAA7IAAAQMAAAAAAAAAAAAAAO/AAAEHgAAAAACAAAAB4AAAAAAAAAAAAAAA7IAAAQM"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "AU Optronics",
+      "model": "0xA48F",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1595,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIoA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAmgD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACDAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAPIA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAFAD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAANcA////AAADswAABA0AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "key": "/run/media/davinceyr/Kindle/documents/My Clippings.txt",
+        "pathtoebook": "/run/media/davinceyr/Kindle/documents/My Clippings.txt",
+        "timestamp": "2024-11-24T22:52:45.029Z",
+        "title": "My Clippings"
+      },
+      {
+        "authors": [
+          "Foucault"
+        ],
+        "key": "/home/davinceyr/Calibre Library/Foucault/Reader [An Introduction To His Thought, With Major New -- Reader [An Introduction To His Thought (2)/Reader [An Introduction To His Thought, Wi - Foucault.epub",
+        "pathtoebook": "/home/davinceyr/Calibre Library/Foucault/Reader [An Introduction To His Thought, With Major New -- Reader [An Introduction To His Thought (2)/Reader [An Introduction To His Thought, Wi - Foucault.epub",
+        "timestamp": "2024-11-12T23:04:22.615Z",
+        "title": "Reader [An Introduction To His Thought, With Major New -- Reader [An Introduction To His Thought, With Major New -- a3c8c77b9e9a23705b45d59e9711b403 -- Anna’s Archive"
+      }
+    ]
+  }
+}

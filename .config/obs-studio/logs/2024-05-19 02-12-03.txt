@@ -1,0 +1,130 @@
+02:12:03.423: Platform: Wayland
+02:12:03.423: CPU Name: 11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz
+02:12:03.423: CPU Speed: 2992.748MHz
+02:12:03.424: Physical Cores: 4, Logical Cores: 8
+02:12:03.424: Physical Memory: 15690MB Total, 10599MB Free
+02:12:03.424: Kernel Version: Linux 6.8.9-arch1-1
+02:12:03.424: Distribution: "EndeavourOS" Unknown
+02:12:03.424: Desktop Environment: Hyprland ()
+02:12:03.424: Session Type: wayland
+02:12:03.426: Qt Version: 6.7.0 (runtime), 6.7.0 (compiled)
+02:12:03.426: Portable mode: false
+02:12:03.487: OBS 30.1.2-browser-4 (linux)
+02:12:03.487: ---------------------------------
+02:12:03.487: ---------------------------------
+02:12:03.487: audio settings reset:
+02:12:03.487: 	samples per sec: 48000
+02:12:03.487: 	speakers:        2
+02:12:03.487: 	max buffering:   960 milliseconds
+02:12:03.487: 	buffering type:  dynamically increasing
+02:12:03.495: ---------------------------------
+02:12:03.495: Initializing OpenGL...
+02:12:03.495: Using EGL/Wayland
+02:12:03.528: Initialized EGL 1.5
+02:12:03.541: Loading up OpenGL on adapter Intel Mesa Intel(R) Xe Graphics (TGL GT2)
+02:12:03.541: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.0.6-arch1.2, shading language 4.60
+02:12:03.673: ---------------------------------
+02:12:03.673: video settings reset:
+02:12:03.673: 	base resolution:   1920x1080
+02:12:03.673: 	output resolution: 1280x720
+02:12:03.673: 	downscale filter:  Bicubic
+02:12:03.673: 	fps:               30/1
+02:12:03.673: 	format:            NV12
+02:12:03.673: 	YUV mode:          Rec. 709/Partial
+02:12:03.673: NV12 texture support enabled
+02:12:03.673: P010 texture support not available
+02:12:03.678: Audio monitoring device:
+02:12:03.678: 	name: Default
+02:12:03.678: 	id: default
+02:12:03.678: ---------------------------------
+02:12:03.710: No AJA devices found, skipping loading AJA UI plugin
+02:12:03.710: Failed to initialize module 'aja-output-ui.so'
+02:12:03.721: No AJA devices found, skipping loading AJA plugin
+02:12:03.721: Failed to initialize module 'aja.so'
+02:12:03.729: Failed to load 'en-US' text for module: 'decklink-captions.so'
+02:12:03.743: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+02:12:03.757: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+02:12:03.758: Failed to initialize module 'decklink.so'
+02:12:04.123: [pipewire] No captures available
+02:12:04.184: [obs-browser]: Version 2.23.4
+02:12:04.184: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2594+g17f8588+chromium-103.0.5060.134 (compiled)
+02:12:04.324: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+02:12:04.324: FFmpeg VAAPI H264 encoding not supported
+02:12:04.324: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+02:12:04.324: FFmpeg VAAPI AV1 encoding not supported
+02:12:04.324: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+02:12:04.324: FFmpeg VAAPI HEVC encoding not supported
+02:12:04.489: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.4.2 | RPC Version: 1)
+02:12:04.490: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.7.0 | Qt version (run-time): 6.7.0
+02:12:04.490: [obs-websocket] [obs_module_load] Linked ASIO Version: 102800
+02:12:04.501: [obs-websocket] [obs_module_load] Module loaded.
+02:12:04.596: [vlc-video]: VLC 3.0.20 Vetinari found, VLC video source enabled
+02:12:04.596: ---------------------------------
+02:12:04.596:   Loaded Modules:
+02:12:04.596:     vlc-video.so
+02:12:04.596:     text-freetype2.so
+02:12:04.596:     sndio.so
+02:12:04.596:     rtmp-services.so
+02:12:04.596:     obs-x264.so
+02:12:04.596:     obs-websocket.so
+02:12:04.596:     obs-webrtc.so
+02:12:04.596:     obs-vst.so
+02:12:04.596:     obs-transitions.so
+02:12:04.596:     obs-qsv11.so
+02:12:04.596:     obs-outputs.so
+02:12:04.596:     obs-libfdk.so
+02:12:04.596:     obs-filters.so
+02:12:04.596:     obs-ffmpeg.so
+02:12:04.597:     obs-browser.so
+02:12:04.597:     linux-v4l2.so
+02:12:04.597:     linux-pulseaudio.so
+02:12:04.597:     linux-pipewire.so
+02:12:04.597:     linux-jack.so
+02:12:04.597:     linux-capture.so
+02:12:04.597:     linux-alsa.so
+02:12:04.597:     image-source.so
+02:12:04.597:     frontend-tools.so
+02:12:04.597:     decklink-output-ui.so
+02:12:04.597:     decklink-captions.so
+02:12:04.597: ---------------------------------
+02:12:04.597: QWidget::setTabOrder: 'first' and 'second' must be in the same window
+02:12:04.597: ==== Startup complete ===============================================
+02:12:04.669: All scene data cleared
+02:12:04.669: ------------------------------------------------
+02:12:04.680: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+02:12:04.680: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+02:12:04.680: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__hw_sofhdadsp__sink.monitor' (default)
+02:12:04.681: [Loaded global audio device]: 'Desktop Audio'
+02:12:04.681: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.5) 15.0.0'
+02:12:04.682: pulse-input: Audio format: s24-32le, 48000 Hz, 2 channels
+02:12:04.682: pulse-input: Sample format s24-32le not supported by OBS,using float32le instead for recording
+02:12:04.682: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__hw_sofhdadsp__source' (default)
+02:12:04.682: [Loaded global audio device]: 'Mic/Aux'
+02:12:04.683: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+02:12:04.683: obs-data.c: [obs_data_create_from_json] Failed reading json string (1): '[' or '{' expected near end of file
+02:12:04.685: Switched to scene 'Scene'
+02:12:04.685: ------------------------------------------------
+02:12:04.685: Loaded scenes:
+02:12:04.685: - scene 'Scene':
+02:12:04.685:     - source: 'Browser' (browser_source)
+02:12:04.685:     - source: 'Video Capture Device (PipeWire) (BETA)' (pipewire-camera-source)
+02:12:04.686: ------------------------------------------------
+02:12:04.770: [camera-portal] Successfully accessed cameras
+02:12:04.840: [pipewire] Server version: 1.0.5
+02:12:04.840: [pipewire] Library version: 1.0.5
+02:12:04.840: [pipewire] Header version: 1.0.5
+02:12:04.840: [pipewire] Created registry 0x64ec83c907b0
+02:12:04.840: [camera-portal] Found device v4l2_input.pci-0000_00_14.0-usb-0_5_1.0
+02:12:04.840: [camera-portal] Found device v4l2_input.pci-0000_00_14.0-usb-0_5_1.2
+02:12:04.909: [rtmp-services plugin] Successfully updated file 'services.json' (version 252)
+02:12:04.910: [rtmp-services plugin] Successfully updated package (version 252)
+02:12:05.344: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+02:12:05.344: 
+02:12:17.443: Virtual camera started
+02:12:17.445: ==== Virtual Camera Start ==========================================
+02:12:17.445: Starting Virtual Camera output to Program
+02:46:27.707: Output 'virtualcam_output': stopping
+02:46:27.707: Output 'virtualcam_output': Total frames output: 61507
+02:46:27.707: Output 'virtualcam_output': Total drawn frames: 61507
+02:46:27.707: ==== Virtual Camera Stop ===========================================
+02:46:27.708: Virtual camera stopped

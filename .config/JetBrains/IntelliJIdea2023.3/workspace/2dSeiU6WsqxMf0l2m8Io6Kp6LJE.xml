@@ -1,0 +1,302 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="StringAnalytics" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/StringAnalytics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="764">
+              <caret line="238" selection-start-line="238" selection-end-line="238" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="780">
+              <caret line="31" column="93" selection-start-line="31" selection-start-column="93" selection-end-line="31" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/argTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/small.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/tiny.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="1" lastUsed="1711827583037" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="45" lastUsed="1712153648826" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="18" lastUsed="1712153649641" />
+    </fileType>
+    <fileType name="UML">
+      <summary usageCount="1" lastUsed="1711895089352" />
+    </fileType>
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/StringAnalytics.java" />
+      <option value="$PROJECT_DIR$/StringTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="45" lastUsage="1712153648826" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="18" lastUsage="1712153649641" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StringAnalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davinceyr/Documents/University files/IN1002/StringAnalytics}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StringAnalytics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davinceyr/Documents/University files/IN1002/StringAnalytics}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davinceyr/Documents/University files/IN1002/StringAnalytics/data}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20558000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <option name="selectedScope" value="All Places" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Space Code Reviews" show_stripe_button="false" />
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" x="12" y="88" width="625" height="962" id="Project" order="0" weight="0.16376582" />
+      <window_info id="Commit" order="1" weight="0.16418704" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" weight="0.32994187" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" weight="0.32994187" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32994187" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.32994187" />
+      <window_info anchor="bottom" id="Duplicates" order="6" weight="0.32994187" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Tabnine Chat" order="5" weight="0.32990506" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" />
+      <window_info anchor="right" id="Codeium Chat" order="7" weight="0.32990506" />
+      <window_info anchor="right" id="Pets" order="8" />
+      <unified_weights bottom="0.32994187" left="0.16418704" right="0.32990506" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Tabnine Chat</value>
+      <value>TODO</value>
+      <value>Duplicates</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="311" key="FileChooserDialogImpl" timestamp="1711985163434">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="712" y="311" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1711985163434" />
+    <state width="1814" height="298" key="GridCell.Tab.0.bottom" timestamp="1711985212344">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1711985212344" />
+    <state width="1814" height="298" key="GridCell.Tab.0.center" timestamp="1711985212344">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="298" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1711985212344" />
+    <state width="1814" height="298" key="GridCell.Tab.0.left" timestamp="1711985212344">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="298" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1711985212344" />
+    <state width="1814" height="298" key="GridCell.Tab.0.right" timestamp="1711985212344">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="298" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1711985212344" />
+    <state x="469" y="202" key="SettingsEditor" timestamp="1711854580791">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="202" key="SettingsEditor/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1711854580791" />
+    <state x="560" y="303" key="Vcs.Push.Dialog.v2" timestamp="1710350965737">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="303" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1710350965737" />
+    <state x="693" y="260" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1711855634095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="260" width="524" height="554" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1711855634095" />
+    <state x="560" y="201" width="800" height="702" key="new project wizard" timestamp="1711898950694">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="201" width="800" height="702" key="new project wizard/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1711898950694" />
+    <state x="624" y="255" key="run.anything.popup" timestamp="1710078563781">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="255" key="run.anything.popup/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1710078563781" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/StringAnalytics/StringAnalytics.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/StringAnalytics/data/tiny.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/StringAnalytics/data/small.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/StringAnalytics">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="31" column="93" selection-start-line="31" selection-start-column="93" selection-end-line="31" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/argTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/small.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/tiny.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StringAnalytics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="238" selection-start-line="238" selection-end-line="238" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

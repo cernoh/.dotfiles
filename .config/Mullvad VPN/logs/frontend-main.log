@@ -1,0 +1,5 @@
+[2024-04-20 03:29:09.934][verbose] Chromium sandbox is enabled
+[2024-04-20 03:29:09.935][info] Running version 2024.1
+[2024-04-20 03:29:10.004][info] Detected locale: en-GB
+[2024-04-20 03:29:10.051][info] Connected to the daemon
+[2024-04-20 03:29:10.124][info] Skip autoconnect because GUI setting is disabled

@@ -1,0 +1,73 @@
+[2024/11/09 15:04:47] === update info ===
+[2024/11/09 15:04:47]  platformUpdate: /home/davinceyr/.config/VisualParadigm/tmp/platformupdate7653402048699882652_dir/lib/platforminstaller.jar
+[2024/11/09 15:04:47]  updateIndex: 0
+[2024/11/09 15:04:47]  process: true
+[2024/11/09 15:04:47]  local server: false (patch: false)
+[2024/11/09 15:04:47]  config: false
+[2024/11/09 15:04:47]  quiet: false
+[2024/11/09 15:04:47]  init: false (force: false, version: null)
+[2024/11/09 15:04:47]  local: null
+[2024/11/09 15:04:47]  server: null
+[2024/11/09 15:04:47]  servers: null
+[2024/11/09 15:04:47]  directory: null
+[2024/11/09 15:04:47]  proxy.host: 
+[2024/11/09 15:04:47]  proxy.port: 
+[2024/11/09 15:04:47]  update from vp: false
+[2024/11/09 15:04:47]  auto updating: true
+[2024/11/09 15:04:47]  auto updating 2: false
+[2024/11/09 15:04:47]  client build: 20240501
+[2024/11/09 15:04:47]  request download key 12.0: null
+[2024/11/09 15:04:47] === Internet Connection Links ====
+[2024/11/09 15:04:47] servers: https://www.visual-paradigm.com/download/productupdate/vp.jsp
+[2024/11/09 15:04:47] latest: https://www.visual-paradigm.com/download/latestinfo.jsp
+[2024/11/09 15:04:47] documentation: https://www.visual-paradigm.com/installers/vpsuite17.1/
+[2024/11/09 15:04:47] product name: Visual Paradigm
+[2024/11/09 15:04:47] ----------------------------------
+[2024/11/09 15:04:47] === Internet Connection Links ====
+[2024/11/09 15:04:47] servers: https://www.visual-paradigm.com/download/productupdate/vp.jsp
+[2024/11/09 15:04:47] latest: https://www.visual-paradigm.com/download/latestinfo.jsp
+[2024/11/09 15:04:47] documentation: https://www.visual-paradigm.com/installers/vpsuite17.1/
+[2024/11/09 15:04:47] product name: Visual Paradigm
+[2024/11/09 15:04:47] ----------------------------------
+[2024/11/09 15:04:47] <<< Update Process >>>
+[2024/11/09 15:04:47] ----------------- Update Main (Auto) ---------------
+[2024/11/09 15:04:47] >>> read installed products: true, /home/davinceyr/Visual_Paradigm_17.1/resources/.product_installation.xml
+[2024/11/09 15:04:47] loading installed product: /home/davinceyr/Visual_Paradigm_17.1, vp, 1
+[2024/11/09 15:04:47] ---------------------------------------------
+[2024/11/09 15:04:47] Finding Server...
+[2024/11/09 15:04:47] Selected Server: Germany, https://eu8.dl.visual-paradigm.com/archives/vp17.1/20240501/Update
+[2024/11/09 15:04:47] Trying connect server...
+[2024/11/09 15:04:48] test connection..... true, https://eu8.dl.visual-paradigm.com/archives/vp17.1/20240501/Update/resources/vpupdateinfo.xml
+[2024/11/09 15:04:48] Auto Update Checking Update Program...
+[2024/11/09 15:04:48] >>>>>>>>>>> GET UPDATE XML FROM SERVER: false, https://eu8.dl.visual-paradigm.com/archives/vp17.1/20240501/Update
+[2024/11/09 15:04:48] >>>>>>>>>>> GET UPDATE XML FROM SERVER 3: https://eu8.dl.visual-paradigm.com/archives/vp17.1/20240501/Update/resources/vpupdateinfo.xml
+[2024/11/09 15:04:48] >>>>>>>>>>> GET UPDATE XML FROM SERVER 4: true, sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@4497fb6f
+[2024/11/09 15:04:48] >>>>>>>>>>> GET UPDATE XML FROM SERVER 7: sun.net.www.protocol.http.HttpURLConnection$HttpInputStream@4497fb6f
+[2024/11/09 15:04:48] >>>>>>>>>>> GET UPDATE XML FROM SERVER 8: /home/davinceyr/.config/VisualParadigm/tmp/productupdatexml16703465982909362769.xml
+[2024/11/09 15:04:48] >>>>>>>>>>> GET UPDATE XML FROM SERVER 9: /home/davinceyr/.config/VisualParadigm/tmp/productupdatexml16703465982909362769.xml
+[2024/11/09 15:04:48] Version --- https://eu8.dl.visual-paradigm.com/archives/vp17.1/20240501/Update 
+program: 
+	20221201
+	20221201
+product: 
+	vp
+	vp
+build: 
+	20240501
+	20240501
+suite version: 
+	17.1
+	17.1
+resume: 
+	20240501
+	null
+[2024/11/09 15:04:48] You are running the latest hotfix build. No need to update.
+[2024/11/09 15:06:59] === Java Execute =================
+[2024/11/09 15:06:59] /home/davinceyr/Visual_Paradigm_17.1/jre/bin/java
+[2024/11/09 15:06:59] -cp
+[2024/11/09 15:06:59] /home/davinceyr/Visual_Paradigm_17.1/lib/platforminstaller.jar:
+[2024/11/09 15:06:59] com.vp.platform.installer.ClearUpdateMain
+[2024/11/09 15:06:59] /home/davinceyr/.config/VisualParadigm/tmp/platformupdate7653402048699882652_dir
+[2024/11/09 15:06:59] --------------------
+[2024/11/09 15:06:59] /home/davinceyr/Visual_Paradigm_17.1/jre/bin/java -cp /home/davinceyr/Visual_Paradigm_17.1/lib/platforminstaller.jar: com.vp.platform.installer.ClearUpdateMain /home/davinceyr/.config/VisualParadigm/tmp/platformupdate7653402048699882652_dir
+[2024/11/09 15:06:59] --------------------

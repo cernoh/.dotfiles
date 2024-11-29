@@ -1,0 +1,9 @@
+[2024-04-12 23:26:13.369][verbose] Chromium sandbox is enabled
+[2024-04-12 23:26:13.370][info] Running version 2024.1
+[2024-04-12 23:26:13.452][info] Detected locale: en-GB
+[2024-04-12 23:26:13.505][info] Connected to the daemon
+[2024-04-12 23:26:13.583][info] Skip autoconnect because GUI setting is disabled
+[2024-04-13 00:19:24.600][info] before-quit received
+[2024-04-13 00:19:24.600][info] Quit initiated
+[2024-04-13 00:19:24.613][info] Unsubscribed from the daemon events
+[2024-04-13 00:19:24.614][verbose] GRPC Channel connectivity state changed to 4

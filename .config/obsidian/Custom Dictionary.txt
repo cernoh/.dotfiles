@@ -1,0 +1,10 @@
+Polymorphism
+Satisfiability
+getarea
+heapsort
+polymorphism
+quicksort
+satisfiability
+satisfiable
+subclasses
+checksum_v1 = 124f2fedd8b3de2d65eab02f799cdf5b

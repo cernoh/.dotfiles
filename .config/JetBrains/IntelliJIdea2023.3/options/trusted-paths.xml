@@ -1,0 +1,14 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/University files/IN1002/StringAnalytics" value="true" />
+        <entry key="$USER_HOME$/Documents/University files/IN1002/Week 3" value="true" />
+        <entry key="$USER_HOME$/Documents/University files/IN1002/Week4" value="true" />
+        <entry key="$USER_HOME$/Documents/University files/IN1002/Week6" value="true" />
+        <entry key="$USER_HOME$/Documents/University files/IN1007/BasicDemo" value="true" />
+        <entry key="$USER_HOME$/Documents/University files/IN1007/citygame-cernoh" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

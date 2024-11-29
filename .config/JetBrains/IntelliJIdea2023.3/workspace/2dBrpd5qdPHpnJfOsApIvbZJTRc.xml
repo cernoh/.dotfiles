@@ -1,0 +1,131 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Week4" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/BinarySearchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="738">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="3" lastUsed="1709567711344" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$PROJECT_DIR$/src/BinarySearchTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1709567711346" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Week4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davinceyr/Documents/University files/IN1002/Week4}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Week4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/davinceyr/Documents/University files/IN1002/Week4}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/davinceyr/Documents/University files/IN1002/Week4/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="805000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16376582" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32994187" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Pets" order="5" />
+      <unified_weights bottom="0.32994187" left="0.16376582" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1814" height="298" key="GridCell.Tab.0.bottom" timestamp="1709493268671">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1709493268671" />
+    <state width="1814" height="298" key="GridCell.Tab.0.center" timestamp="1709493268671">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="298" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1709493268671" />
+    <state width="1814" height="298" key="GridCell.Tab.0.left" timestamp="1709493268671">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="298" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1709493268671" />
+    <state width="1814" height="298" key="GridCell.Tab.0.right" timestamp="1709493268671">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1814" height="298" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1709493268671" />
+    <state x="469" y="202" key="SettingsEditor" timestamp="1709567700709">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="202" key="SettingsEditor/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1709567700709" />
+    <state x="698" y="275" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1709492505943">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="275" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080/1920.0.1920.515@0.0.1920.1080" timestamp="1709492505943" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
