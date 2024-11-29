@@ -1,4 +1,0 @@
-codiumai.codiumai
-com.codeium.intellij
-com.intellij.ml.llm
-com.tabnine.TabNine
