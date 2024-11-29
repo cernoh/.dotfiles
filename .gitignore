@@ -4,3 +4,4 @@
 .config/obs-studio
 .config/github-copilot
 .config/JetBrains
+.config/nvim/lazylock
